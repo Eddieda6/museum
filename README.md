@@ -69,11 +69,11 @@
 
 ### 原型设计  
 #### <a name="21">交互及界面设计</a>
- **1.总览**  
+ **1.产品架构**  
  
 ![总览](https://github.com/Eddieda6/museum/blob/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84.png) 
 
-**2.产品架构**    
+**2.总览**    
 
 ![产品架构图](https://github.com/Eddieda6/museum/blob/master/%E6%80%BB%E8%A7%88.png)  
 
@@ -86,7 +86,7 @@
 
 #### <a name="23">原型文档</a>
 [原型文档下载](https://gitee.com/NFUNM172015260/museum/blob/master/api%E5%8D%9A%E5%8D%9A%E7%89%A9%E9%A6%86.rp)  
-[原型文档查看](http://nfunm172015260.gitee.io/)
+[原型文档查看](http://nfunm172015260.gitee.io/museum)
 
 #### <a name="24">口头操作与说明</a>  
 见产品文档prd
