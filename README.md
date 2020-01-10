@@ -90,3 +90,45 @@
 
 #### <a name="24">口头操作与说明</a>  
 见产品文档prd
+
+### api
+
+```
+{
+	"face_num": 1,
+	"face_list": [
+		{
+			"face_token": "86b87dbf1133365b698777b9f4b59f58",
+			"location": {
+				"left": 816.83,
+				"top": 179.93,
+				"width": 159,
+				"height": 160,
+				"rotation": 13
+			},
+			"face_probability": 1,
+			"angle": {
+				"yaw": -8.13,
+				"pitch": 3.76,
+				"roll": 10.2
+			},
+			"age": 27,
+			"beauty": 66.01,
+			"expression": {
+				"type": "smile",
+				"probability": 1
+			},
+			"face_shape": {
+				"type": "oval",
+				"probability": 0.65
+			},
+			"gender": {
+				"type": "female",
+				"probability": 1
+			},
+			"glasses": {
+				"type": "none",
+				"probability": 1
+			},
+```
+
